@@ -1,4 +1,3 @@
-from code.py import *  
 import unittest
 
 class TestCuboid(unittest.TestCase):
